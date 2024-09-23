@@ -1,0 +1,1 @@
+This repository contains the preprocessing step for a larger project using real-world data provided by Union Alcoyana, an insurance company. The dataset includes detailed information on policies and customers, and this preprocessing phase focuses on cleaning, transforming, and preparing the data for subsequent analysis and modeling.
